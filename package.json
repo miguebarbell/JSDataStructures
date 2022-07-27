@@ -1,0 +1,9 @@
+{
+  "name": "JSDataStructures",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "scripts": {
+    "stack" : "node stack/stack.js"
+  }
+}
